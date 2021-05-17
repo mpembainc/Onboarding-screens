@@ -1,0 +1,15 @@
+ion-button {
+  --box-shadow: none;
+  --border-radius: 10px;
+  --background: #ebeef4;
+
+  height: 48px;
+  font-size: 1rem;
+  color: #123681;
+  margin-bottom: 0.7rem;
+  text-transform: initial;
+
+  ion-icon {
+    margin-right: 0.5rem;
+  }
+}
